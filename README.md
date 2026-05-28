@@ -1,5 +1,5 @@
 # LinikatzV2
-LinikatzV2 is a bash script based on the Linikatz tool developed by time-machine (https://github.com/CiscoCXSecurity/linikatz).
+LinikatzV2 is a bash script based on the Linikatz tool developed by timb-machine (https://github.com/CiscoCXSecurity/linikatz).
 It allows post-exploitation tasks on UNIX computers joined to Active Directory, using various methods for credential mining.
 
 This tool needs **root privileges** to be run on the host system.
